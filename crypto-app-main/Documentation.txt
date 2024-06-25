@@ -1,0 +1,30 @@
+how to start 
+npx create-react-app cryptoverse
+npm install @mui/material @emotion/react @emotion/styled react-router-dom
+npm audit fix
+npm i axois chartjs react-router-dom react-icons
+npm react-loader-spinner
+npm i @react-three/fiber
+npm i three
+npm i @react-three/drei
+npm start
+
+control+c  y
+npm run build
+
+api-
+https://www.coingecko.com/api/documentation
+search the explore
+tryout 
+exicute 
+copy the url
+
+explorer
+coin/Market  -coin/markets?vs_currency=inr
+ 
+
+
+___________________________________________________________________________________________________
+useeffect ()=>{} function is used for sideeffect is it is automatically called when the first time component enter
+
+
